@@ -1,0 +1,3 @@
+Halloooo, salam kenal saya Annas.
+
+Saya ingin membuat TA saya berupa website dengan judul Sistem Bon karyawan Berbasis Web Menggunakan MERN Stack Pada CV. Tomia Iriati 
